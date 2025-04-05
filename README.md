@@ -2,7 +2,8 @@
 
 Proyecto de detección facial con Python y OpenCV. 
 
-Esta aplicación:
+## Esta aplicación:
+
 ✅ Detecta rostros en tiempo real desde la cámara web.
 🎥 Graba automáticamente un video de 10 segundos.
 📸 Toma 3 fotografías detalladas de los rostros detectados.  
@@ -11,7 +12,7 @@ Esta aplicación:
 
 ---
 
-## 🚀 Requisitos
+### 🚀 Requisitos
 
 🧠 Tecnologías usadas
 - Python
